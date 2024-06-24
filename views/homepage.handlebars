@@ -1,0 +1,18 @@
+{{#each Blogposts as |blogpost|}}
+  <div class="card" style="width: 80rem;">
+
+    <div class="card-body">
+      <div class="card-header">
+        <h5 class="card-title">{{blogpost.title}}</h5>
+        <p>Created On: {{format_date blogpost.created_date}}</p>
+      </div>
+      <p class="card-text">SUMMARY:{{blogpost.summary}}</p>
+      <p class="card-text">CREATED BY:{{blogpost.user.fname}}
+        {{blogpost.user.lname}}</p>
+    </div>
+
+    <div class="card-footer text-muted text-center">
+      <a href="/blogpost/{{blogpost.id}}" class="btn btn-primary">Visit Blog</a>
+    </div>
+  </div>
+{{/each}}
