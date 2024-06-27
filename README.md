@@ -4,6 +4,9 @@ Tech Blog Website MVC Architecture
 ## Description
 This is an blogging website based on Node and Express.js API and configured with Sequelize to interact with a MySQL database.
 
+## Live Link
+[Tech Blogs](https://tech-blog-mvc-justin-8e9957f93426.herokuapp.com/)
+
 ## User Story
 AS A developer who writes about tech
 <br>
