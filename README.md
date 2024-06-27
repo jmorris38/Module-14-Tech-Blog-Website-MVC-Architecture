@@ -21,13 +21,13 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
  npm install sequelize, mysql12, dotenv
 
  ## Preview
- <img src="./public/images/1.PNG" width="720" heigth="480">
+ <img src="./public/images/1.png" width="720" heigth="480">
 
- <img src="./public/images/2.PNG" width="720" heigth="480">
+ <img src="./public/images/2.png" width="720" heigth="480">
 
- <img src="./public/images/3.PNG" width="720" heigth="480">
+ <img src="./public/images/3.png" width="720" heigth="480">
 
- <img src="./public/images/4.PNG" width="720" heigth="480">
+ <img src="./public/images/4.png" width="720" heigth="480">
 
 
  ## License
